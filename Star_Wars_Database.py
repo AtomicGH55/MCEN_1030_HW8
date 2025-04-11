@@ -10,7 +10,7 @@ def main():
         "Mace Windu": "Jedi"
     }
 
-    print(force_users[0])
+    
 
 if __name__ == '__main__':
     main()
